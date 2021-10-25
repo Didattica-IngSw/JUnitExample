@@ -5,10 +5,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>it.unical</groupId>
-	<artifactId>JUnitTest2021</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>JUnitTest2021</name>
+	<groupId>it.didattica</groupId>
+	<artifactId>JUnitExample</artifactId>
+	<version>1</version>
+	<name>JUnitExample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
